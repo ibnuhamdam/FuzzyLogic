@@ -1,0 +1,16 @@
+Nama : Ibnu
+Umur : 21
+Alamat : Surabaya
+
+Nama : Dani
+Umur : 14
+Alamat : Depok
+---
+Nama : Susi
+Umur : 19
+Alamat : Bandung
+---
+Nama: nopal
+Umur: 29
+Alamat: Jakarta
+---
